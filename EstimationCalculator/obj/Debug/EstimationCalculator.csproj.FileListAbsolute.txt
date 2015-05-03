@@ -1,0 +1,290 @@
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\AppManifest.xaml
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\App.g.cs
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\MainPage.g.cs
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+c:\users\karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\XapCacheFile.xml
+C:\Users\Karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\StartPage.g.cs
+C:\Users\Karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\EnterPlayersNames.g.cs
+C:\Users\Karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\EnterBidsCalls.g.cs
+C:\Users\Karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\EnterMadeCalls.g.cs
+C:\Users\Karim\documents\visual studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+C:\Users\Karim\Documents\Visual Studio 2013\Projects\EstimationCalculator\EstimationCalculator\obj\Debug\Test.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 1\EstimationCalculator\obj\Debug\Test.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\Test.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 2\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\Test.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 3\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 4 - Copy\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 6\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 7\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\step 8\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.0\Bug Version - Copy\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\XapCacheFile.xml
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\ApplicationIcon.png
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\AppManifest.xaml
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\Properties\WMAppManifest.xml
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\Bin\Debug\EstimationCalculator_Debug_AnyCPU.xap
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\App.g.cs
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\MainPage.g.cs
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\ScoreSheet.g.cs
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\StartPage.g.cs
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\TablePlate.g.cs
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.g.resources
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.Resources.AppResources.resources
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.csproj.GenerateResource.Cache
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.dll
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\EstimationCalculator.pdb
+D:\My Projects\Estimation Calculator\Final\EstimationCalculator Version 1.11.3\EstimationCalculator\obj\Debug\XapCacheFile.xml

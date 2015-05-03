@@ -1,0 +1,200 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="EstimationCalculator.TablePlate"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="45"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28"/>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.RowSpan="2" Background="White">
+            <Image HorizontalAlignment="Left" Height="800" VerticalAlignment="Top" Width="480" Source="/Assets/TablePlatform.png"/>
+            <TextBox x:Name="Player1Name" HorizontalAlignment="Left" Height="75" Margin="18,238,0,0" TextWrapping="Wrap" Text="Enter P1 Name" VerticalAlignment="Top" Width="200" Background="#BFFFFFFF" FontSize="22" BorderBrush="#BF000000" TextChanged="Player1Name_TextChanged" TextAlignment="Center" FontWeight="Bold" Tap="Player1Name_Tap"/>
+            <TextBox x:Name="Player4Name" HorizontalAlignment="Left" Height="75" Margin="264,238,0,0" TextWrapping="Wrap" Text="Enter P4 Name" VerticalAlignment="Top" Width="200" Background="#BFFFFFFF" FontSize="22" BorderBrush="#BF000000" TextChanged="Player4Name_TextChanged" FontWeight="Bold" TextAlignment="Center" Tap="Player4Name_Tap"/>
+            <TextBox x:Name="Player2Name" HorizontalAlignment="Left" Height="75" Margin="16,476,0,0" TextWrapping="Wrap" Text="Enter P2 Name" VerticalAlignment="Top" Width="200" Background="#BFFFFFFF" FontSize="22" BorderBrush="#BF000000" TextChanged="Player2Name_TextChanged" FontWeight="Bold" TextAlignment="Center" Tap="Player2Name_Tap"/>
+            <TextBox x:Name="Player3Name" HorizontalAlignment="Left" Height="75" Margin="264,476,0,0" TextWrapping="Wrap" Text="Enter P3 Name" VerticalAlignment="Top" Width="200" Background="#BFFFFFFF" FontSize="22" BorderBrush="#BF000000" TextChanged="Player3Name_TextChanged" FontWeight="Bold" TextAlignment="Center" Tap="Player3Name_Tap"/>
+            <TextBlock HorizontalAlignment="Left" Height="35" Margin="62,179,0,0" TextWrapping="Wrap" Text="Calls" VerticalAlignment="Top" Width="85" Foreground="Black" TextAlignment="Center" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left" Height="35" Margin="43,213,0,0" TextWrapping="Wrap" Text="Made Calls" VerticalAlignment="Top" Width="110" Foreground="Black" TextAlignment="Center" FontWeight="Bold"/>
+            <TextBlock x:Name="Player1Score" HorizontalAlignment="Left" Height="52" Margin="32,313,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Width="108" Foreground="Black" TextAlignment="Center" FontWeight="Bold" FontSize="30" Tap="Player1Score_Tap"/>
+            <TextBlock HorizontalAlignment="Left" Height="35" Margin="301,179,0,0" TextWrapping="Wrap" Text="Calls" VerticalAlignment="Top" Width="85" Foreground="Black" TextAlignment="Center" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left" Height="35" Margin="284,213,0,0" TextWrapping="Wrap" Text="Made Calls" VerticalAlignment="Top" Width="110" Foreground="Black" TextAlignment="Center" FontWeight="Bold"/>
+            <TextBlock x:Name="Player4Score" HorizontalAlignment="Left" Height="52" Margin="330,315,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Width="108" Foreground="Black" TextAlignment="Center" FontWeight="Bold" FontSize="30" Tap="Player4Score_Tap"/>
+            <TextBlock HorizontalAlignment="Left" Height="35" Margin="55,691,0,0" TextWrapping="Wrap" Text="Calls" VerticalAlignment="Top" Width="85" Foreground="Black" TextAlignment="Center" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left" Height="35" Margin="38,726,0,0" TextWrapping="Wrap" Text="Made Calls" VerticalAlignment="Top" Width="110" Foreground="Black" TextAlignment="Center" FontWeight="Bold"/>
+            <TextBlock x:Name="Player2Score" HorizontalAlignment="Left" Height="52" Margin="32,430,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Width="108" Foreground="Black" TextAlignment="Center" FontWeight="Bold" FontSize="30" Tap="Player2Score_Tap"/>
+            <TextBlock HorizontalAlignment="Left" Height="35" Margin="304,693,0,0" TextWrapping="Wrap" Text="Calls" VerticalAlignment="Top" Width="85" Foreground="Black" TextAlignment="Center" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left" Height="35" Margin="287,727,0,0" TextWrapping="Wrap" Text="Made Calls" VerticalAlignment="Top" Width="110" Foreground="Black" TextAlignment="Center" FontWeight="Bold"/>
+            <TextBlock x:Name="Player3Score" HorizontalAlignment="Left" Height="52" Margin="330,430,0,0" TextWrapping="Wrap" Text="Score" VerticalAlignment="Top" Width="108" Foreground="Black" TextAlignment="Center" FontWeight="Bold" FontSize="30" Tap="Player3Score_Tap"/>
+            <TextBox x:Name="Player1RequestedCalls" HorizontalAlignment="Left" Height="129" Margin="95,128,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="178" FontSize="72" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" InputScope="Number" Tap="Player1RequestedCalls_Tap" TextChanged="Player1RequestedCalls_TextChanged">
+                <TextBox.RenderTransform>
+                    <CompositeTransform ScaleY="0.25" ScaleX="0.25"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <TextBox x:Name="Player1MadeCalls" HorizontalAlignment="Left" Height="129" Margin="95,162,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="178" FontSize="72" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" InputScope="Number" Tap="Player1MadeCalls_Tap" TextChanged="Player1MadeCalls_TextChanged">
+                <TextBox.RenderTransform>
+                    <CompositeTransform ScaleY="0.25" ScaleX="0.25"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <TextBox x:Name="Player4RequestedCalls" HorizontalAlignment="Left" Height="129" Margin="346,128,-32,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="166" FontSize="72" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" InputScope="Number" Tap="Player4RequestedCalls_Tap" TextChanged="Player4RequestedCalls_TextChanged">
+                <TextBox.RenderTransform>
+                    <CompositeTransform ScaleY="0.25" ScaleX="0.25"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <TextBox x:Name="Player4MadeCalls" HorizontalAlignment="Left" Height="129" Margin="342,162,-36,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="174" FontSize="72" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" InputScope="Number" Tap="Player4MadeCalls_Tap" TextChanged="Player4MadeCalls_TextChanged">
+                <TextBox.RenderTransform>
+                    <CompositeTransform ScaleY="0.25" ScaleX="0.25"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <TextBox x:Name="Player3RequestedCalls" HorizontalAlignment="Left" Height="129" Margin="343,642,-37,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="174" FontSize="72" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" InputScope="Number" Tap="Player3RequestedCalls_Tap" TextChanged="Player3RequestedCalls_TextChanged">
+                <TextBox.RenderTransform>
+                    <CompositeTransform ScaleY="0.25" ScaleX="0.25"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <TextBox x:Name="Player3MadeCalls" HorizontalAlignment="Left" Height="129" Margin="342,676,-36,-5" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="174" FontSize="72" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" InputScope="Number" Tap="Player3MadeCalls_Tap" TextChanged="Player3MadeCalls_TextChanged">
+                <TextBox.RenderTransform>
+                    <CompositeTransform ScaleY="0.25" ScaleX="0.25"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <TextBox x:Name="Player2RequestedCalls" HorizontalAlignment="Left" Height="129" Margin="98,642,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="178" FontSize="72" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" InputScope="Number" Tap="Player2RequestedCalls_Tap" TextChanged="Player2RequestedCalls_TextChanged">
+                <TextBox.RenderTransform>
+                    <CompositeTransform ScaleY="0.25" ScaleX="0.25"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <TextBox x:Name="Player2MadeCalls" HorizontalAlignment="Left" Height="129" Margin="97,676,0,-5" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="182" FontSize="72" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" InputScope="Number" Tap="Player2MadeCalls_Tap" TextChanged="Player2MadeCalls_TextChanged">
+                <TextBox.RenderTransform>
+                    <CompositeTransform ScaleY="0.25" ScaleX="0.25"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <Grid HorizontalAlignment="Left" Height="139" Margin="25,35,0,0" VerticalAlignment="Top" Width="191">
+                <RadioButton x:Name="Player1DashCall" Content="Dash Call" HorizontalAlignment="Left" Height="70" Margin="-11,41,0,0" VerticalAlignment="Top" Width="190" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player1DashCall_Checked" Click="Player1DashCall_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="Player1DashBlind" Content="Dash Blind" HorizontalAlignment="Left" Height="70" Margin="-19,83,-19,-14" VerticalAlignment="Top" Width="229" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player1DashBlind_Checked" Click="Player1DashBlind_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="139" Margin="280,35,0,0" VerticalAlignment="Top" Width="170">
+                <RadioButton x:Name="Player4DashCall" Content="Dash Call" HorizontalAlignment="Left" Height="70" Margin="-26,41,0,0" VerticalAlignment="Top" Width="193" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player4DashCall_Checked" Click="Player4DashCall_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="Player4DashBlind" Content="Dash Blind" HorizontalAlignment="Left" Height="70" Margin="-33,85,-26,-16" VerticalAlignment="Top" Width="229" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player4DashBlind_Checked" Click="Player4DashBlind_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="135" Margin="40,555,0,0" VerticalAlignment="Top" Width="155">
+                <RadioButton x:Name="Player2DashCall" Content="Dash Call" HorizontalAlignment="Left" Height="70" Margin="-25,39,-8,0" VerticalAlignment="Top" Width="188" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player2DashCall_Checked" Click="Player2DashCall_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="Player2DashBlind" Content="Dash Blind" HorizontalAlignment="Left" Height="70" Margin="-34,80,-40,-15" VerticalAlignment="Top" Width="229" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player2DashBlind_Checked" Click="Player2DashBlind_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="133" Margin="280,555,0,0" VerticalAlignment="Top" Width="158">
+                <RadioButton x:Name="Player3DashCall" Content="Dash Call" HorizontalAlignment="Left" Height="70" Margin="-26,39,-6,0" VerticalAlignment="Top" Width="190" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player3DashCall_Checked" Click="Player3DashCall_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="Player3DashBlind" Content="Dash Blind" HorizontalAlignment="Left" Height="70" Margin="-33,81,-38,-18" VerticalAlignment="Top" Width="229" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player3DashBlind_Checked" Click="Player3DashBlind_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="560" Margin="35,35,0,0" VerticalAlignment="Top" Width="403">
+                <RadioButton x:Name="Player3Bid" Content="Bid" HorizontalAlignment="Left" Height="70" Margin="235,519,0,-29" VerticalAlignment="Top" Width="115" Background="Black"
+            		FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player3Bid_Checked" Click="Player3Bid_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="Player2Bid" Content="Bid" HorizontalAlignment="Left" Height="70" Margin="-6,519,0,-29" VerticalAlignment="Top" Width="114" Background="Black"
+                	FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player2Bid_Checked" Click="Player2Bid_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="Player1Bid" Content="Bid" HorizontalAlignment="Left" Height="70" Margin="-7,-1,0,0" VerticalAlignment="Top" Width="118" Background="Black"
+                	FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" ClickMode="Press" Click="Player1Bid_Click" Checked="Player1Bid_Checked">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+                <RadioButton x:Name="Player4Bid" Content="Bid" HorizontalAlignment="Left" Height="70" Margin="233,-1,0,0" VerticalAlignment="Top" Width="123" Background="Black"
+                	FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" Foreground="Black" Checked="Player4Bid_Checked" Click="Player4Bid_Click">
+                    <RadioButton.RenderTransform>
+                        <CompositeTransform ScaleX="0.6" ScaleY="0.6"/>
+                    </RadioButton.RenderTransform>
+                </RadioButton>
+            </Grid>
+            <Grid x:Name="GFMS" HorizontalAlignment="Left" Height="578" Margin="127,37,0,0" VerticalAlignment="Top" Width="323">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="86*"/>
+                    <ColumnDefinition Width="152*"/>
+                    <ColumnDefinition Width="85*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="53*"/>
+                    <RowDefinition Height="470*"/>
+                    <RowDefinition Height="55*"/>
+                </Grid.RowDefinitions>
+                <!--<Button HorizontalAlignment="Left" Height="25" Margin="51,12,0,0" VerticalAlignment="Top" Width="64" Grid.Row="1" Grid.Column="1"/>
+                <Button Content="Button" HorizontalAlignment="Left" Height="25" Margin="137,12,-116,0" VerticalAlignment="Top" Width="64" Grid.Row="1" Grid.Column="2"/>
+                <Button Content="Button" HorizontalAlignment="Left" Height="25" Margin="51,48,0,-23" VerticalAlignment="Top" Width="64" Grid.Row="2" Grid.Column="1"/>
+                <Button Content="Button" HorizontalAlignment="Left" Height="25" Margin="137,48,-116,-23" VerticalAlignment="Top" Width="64" Grid.Row="2" Grid.Column="2"/>-->
+            </Grid>
+            <Ellipse Fill="White" HorizontalAlignment="Left" Height="166" Margin="154,311,0,0" Stroke="White" VerticalAlignment="Top" Width="171"/>
+            <TextBlock HorizontalAlignment="Left" Height="45" Margin="174,343,0,0" TextWrapping="Wrap" Text="Submit" VerticalAlignment="Top" Width="130" Foreground="Black" FontSize="35" FontWeight="Bold" TextAlignment="Center" Tap="TextBlock_Tap"/>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="5" Margin="154,397,0,0" Stroke="Black" VerticalAlignment="Top" Width="171"/>
+            <TextBlock x:Name="Undo" HorizontalAlignment="Left" Height="35" Margin="163.387,420.536,0,0" TextWrapping="Wrap" Text="Undo" VerticalAlignment="Top" Width="71.424" RenderTransformOrigin="0.5,0.5" Foreground="Black" UseLayoutRounding="False" d:LayoutRounding="Auto" FontWeight="Bold" FontSize="25" Tap="Undo_Tap">
+                <TextBlock.RenderTransform>
+                    <CompositeTransform Rotation="50"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="84" Margin="236,398,0,0" Stroke="Black" VerticalAlignment="Top" Width="5"/>
+            <TextBlock x:Name="Redo" HorizontalAlignment="Left" Height="35" Margin="247.387,413.036,0,0" TextWrapping="Wrap" Text="Redo" VerticalAlignment="Top" Width="71.424" RenderTransformOrigin="0.5,0.5" Foreground="Black" UseLayoutRounding="False" d:LayoutRounding="Auto" FontWeight="Bold" FontSize="25" Tap="Redo_Tap">
+                <TextBlock.RenderTransform>
+                    <CompositeTransform Rotation="310"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
